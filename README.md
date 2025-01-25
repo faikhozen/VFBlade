@@ -2,7 +2,8 @@
 VFBlade developed by Fai Khozen <br>
 VFBlade serves as Trainer of sorts for Legacy VF5 titles ran in Teknoparrot <br>
 Donations are pretty much appreciated <br>
-https://www.paypal.com/paypalme/faikhozen <br>
+https://www.paypal.com/paypalme/faikhozen <br> <br>
+![VFBlade Screenshot](https://github.com/faikhozen/VFBlade/blob/main/screenshot/VFBlade.png) <br> <br>
 
 version 0.3 <br>
 -VF5R initial support <br>
