@@ -13,13 +13,13 @@ version 0.3 <br>
 -added Save and Load Position <br>
 -added Distance info between characters <br>
 
-Instructions:
-To start:
--Map both Players controls first
--Run VF5R from Tparrot
--Run VFBlade.exe
--Start 2 player match
--click on the available options of VFBlade
-
-To exit
+Instructions: <br>
+To start: <br>
+-Map both Players controls first <br>
+-Run VF5R from Tparrot <br>
+-Run VFBlade.exe <br>
+-Start 2 player match <br>
+-click on the available options of VFBlade <br>
+ <br>
+To exit <br>
 -Close VF5R game and VFBlade.exe will also close
