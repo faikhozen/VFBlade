@@ -1,10 +1,11 @@
-# VFBlade - VF5R
-VFBlade - VF5R developed by Fai Khozen
-VFBlade serves as Trainer of sorts for Legacy VF5 titles ran in Teknoparrot
+# VFBlade <br>
+VFBlade developed by Fai Khozen <br>
+VFBlade serves as Trainer of sorts for Legacy VF5 titles ran in Teknoparrot <br>
 
-version 0.3
--added 1P Infinite Life
--added 2P Infinite Life
--added Timer Stop
--added Save and Load Position
--added Distance info between characters
+version 0.3 <br>
+-VF5R initial support <br>
+-added 1P Health Value edit and Lock <br>
+-added 2P Health Value edit and Lock <br>
+-added Timer Stop <br>
+-added Save and Load Position <br>
+-added Distance info between characters <br>
