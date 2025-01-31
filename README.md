@@ -5,6 +5,10 @@ Donations are pretty much appreciated <br>
 https://www.paypal.com/paypalme/faikhozen <br> <br>
 ![VFBlade Screenshot](https://github.com/faikhozen/VFBlade/blob/main/screenshot/VFBlade.png) <br> <br>
 
+
+version 0.4
+-VF5FS Lindbergh Support & VF5 ver.C support
+-Toggle and Untoggle UI with Tilde keystroke  <br> <br>
 version 0.3 <br>
 -VF5R initial support <br>
 -added 1P Health Value edit and Lock <br>
